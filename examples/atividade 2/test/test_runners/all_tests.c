@@ -1,8 +1,12 @@
+/*
+ * Rafael Basso
+ * Tiago Gambim
+ */
 #include "unity_fixture.h"
 
 static void RunAllTests(void)
 {
-  RUN_TEST_GROUP(Foo);
+  RUN_TEST_GROUP(Sort);
 }
 
 int main(int argc, const char * argv[])
